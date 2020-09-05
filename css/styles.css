@@ -9,6 +9,7 @@
 
 /* Screens */
 @import "screens/login.css";
+@import "screens/friends.css";
 
 
 * {
@@ -20,6 +21,7 @@ body {
 		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
 	padding-top:20px;
 	height:1000vh;
+	color:#2e363e;
 }
 
 a {
